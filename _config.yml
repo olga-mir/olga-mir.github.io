@@ -1,0 +1,10 @@
+title: Conference Talks and Speaking Engagements
+theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+readme_index:
+  enabled: true
+  remove_originals: false
