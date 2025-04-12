@@ -8,3 +8,11 @@ This is a variation on GKE on Spot Instances talk I gave a ew months prior at SR
 
 - [Download PDF](./Managing_Kubernetes_Clusters_on_Spot_Instances.pdf)
 - [Download PowerPoint](./Managing_Kubernetes_Clusters_on_Spot_Instances.pptx)
+
+## Conference Photos
+
+![Conference Photo 1](img/PHOTOGRAPHED_WITH_LOVE-144.jpg)
+
+![Conference Photo 2](img/PHOTOGRAPHED_WITH_LOVE-358.jpg)
+
+![Conference Photo 3](img/PHOTOGRAPHED_WITH_LOVE-362.jpg)
