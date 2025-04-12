@@ -1,9 +1,8 @@
+# Kubernetes Community Days 2024, Australia
+
+[https://community.cncf.io/events/details/cncf-kcd-australia-presents-kcd-sydney-24/](https://community.cncf.io/events/details/cncf-kcd-australia-presents-kcd-sydney-24/)
 
 ## Slides
 
-- [Download PDF](./LLM-on-kubernetes.pdf)
-- [Download PowerPoint](./LLM-on-kubernetes.pptx)
-
-![Conference Photo 1](img/presenting.jpg)
-
-![Conference Photo 2](img/speakers-and-organisers.jpg)
+- [Download PDF](./Optimising-k8s-Operators.pdf)
+- [Download PowerPoint](./Optimising-k8s-Operators.pptx)
