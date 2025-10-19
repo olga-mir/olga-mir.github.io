@@ -1,6 +1,15 @@
 ## Speaking Engagements
 
 ---
+### 2025
+---
+
+### [GitOps-Driven Platform Engineering: Mastering Cluster Fleet Management](./Public-Speaking/2025.10.04__GDG-Melbourne-DevFest__GitOps-Cluster-Fleet/) (October 2025)
+
+- **Event:** GDG Melbourne DevFest 2025
+- **Topics:** GitOps, Platform Engineering, Kubernetes, Cluster Fleet Management
+
+---
 ### 2024
 ---
 
