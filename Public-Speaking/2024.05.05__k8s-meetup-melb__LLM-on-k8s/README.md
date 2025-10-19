@@ -6,6 +6,6 @@
 
 ## Photos
 
-![Conference Photo 1](img/presenting.jpg)
+![Conference Photo 1](img/presenting.jpeg)
 
-![Conference Photo 2](img/speakers-and-organisers.jpg)
+![Conference Photo 2](img/speakers-and-organisers.jpeg)

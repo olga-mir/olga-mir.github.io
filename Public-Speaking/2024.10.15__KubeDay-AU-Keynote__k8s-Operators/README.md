@@ -14,3 +14,9 @@ I also challenged the audience to consider whether building custom operators is 
 
 - [Download PDF](./Operators-Load-Testing.pdf)
 - [Download PowerPoint](./Operators-Load-Testing.pptx)
+
+## Photos
+
+![KubeDay 2024](img/kubeday-2024.jpg)
+
+![Keynote Speakers](img/kubeday-2025-keynote-speakers.jpg)
