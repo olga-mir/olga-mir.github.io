@@ -4,6 +4,11 @@
 ### 2025
 ---
 
+### [Moving to Cloud Run? Leave Your Kubernetes Luggage Behind](./Public-Speaking/2025.10.25__GDG-DevFest-Brisbane__Moving-to-Cloud-Run/) (October 2025)
+
+- **Event:** GDG DevFest Brisbane 2025
+- **Topics:** Cloud Run, Serverless Security, GKE Migration, Identity-based Security
+
 ### [GitOps-Driven Platform Engineering: Mastering Cluster Fleet Management](./Public-Speaking/2025.10.04__GDG-Melbourne-DevFest__GitOps-Cluster-Fleet/) (October 2025)
 
 - **Event:** GDG Melbourne DevFest 2025
