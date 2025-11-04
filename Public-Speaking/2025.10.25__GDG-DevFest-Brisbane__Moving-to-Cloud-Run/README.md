@@ -6,7 +6,7 @@ On October 25th, I presented at GDG DevFest Brisbane 2025, discussing the essent
 
 # Demo Video
 
-Watch the demo video to see the main network security mechanisms of Google Cloud Run in action. This video, originally presented at GDG DevFest Brisbane, recaps key points from the talk and demonstrates their implementation using an AI stack featuring the n8n framework and a Gemma open-source model deployed on Cloud Run.
+Watch the [demo video](https://youtu.be/RUPequlH5Kg) to see the main network security mechanisms of Google Cloud Run in action. This video, originally presented at GDG DevFest Brisbane, recaps key points from the talk and demonstrates their implementation using an AI stack featuring the n8n framework and a Gemma open-source model deployed on Cloud Run.
 
 # Source Code
 
