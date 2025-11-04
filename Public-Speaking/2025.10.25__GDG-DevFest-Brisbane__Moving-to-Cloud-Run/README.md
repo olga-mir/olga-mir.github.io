@@ -1,14 +1,16 @@
 # GDG DevFest Brisbane 2025
 
-I presented at GDG DevFest Brisbane 2025 on October 25th, exploring the critical mindset shift needed when transitioning from Google Kubernetes Engine (GKE) to Cloud Run.
-
-When moving from GKE to Cloud Run, engineers and security teams often bring their Kubernetes "luggage" with them—trying to replicate familiar concepts like network policies and perimeter-based security in a fundamentally different world. But what if this is the wrong approach? Instead of forcing old patterns, let's first step back to understand the new serverless paradigm and build security from there. "Where we going we don't need roads". We need identity.
-
-This session explores the common traps you can fall into by applying Kubernetes recipes to Cloud Run. We'll focus on the native Cloud Run ecosystem and show how network security should be reimagined for a serverless architecture. In GKE, we carefully craft network policies and segment clusters to prevent lateral movement. In Cloud Run, you need a different mindset and a new set of tools.
-
-A technical deep-dive demo walks through practical patterns for securing production Cloud Run applications, covering ingress control, egress management, and service-to-service communication in ways that work with Cloud Run's design, not against it. You'll leave ready to confidently set aside old habits and embrace the powerful, identity-first security model that Cloud Run offers.
+On October 25th, I presented at GDG DevFest Brisbane 2025, discussing the essential shift in mindset required when moving from Google Kubernetes Engine (GKE) to Cloud Run. This session highlighted common pitfalls of applying Kubernetes patterns to Cloud Run and demonstrated how to reimagine network security for a serverless architecture, focusing on Cloud Run's native ecosystem and identity-first security model.
 
 [Session Details](https://devfest-brisbane-2025.sessionize.com/session/1023109)
+
+# Demo Video
+
+Watch the demo video to see the main network security mechanisms of Google Cloud Run in action. This video, originally presented at GDG DevFest Brisbane, recaps key points from the talk and demonstrates their implementation using an AI stack featuring the n8n framework and a Gemma open-source model deployed on Cloud Run.
+
+# Source Code
+
+The source code for the demo featured in this video is available in the [Cloud Run n8n and LLM Demo repository](https://github.com/olga-mir/experiments/tree/main/78-2025.10-cloud-run-n8n-and-llm-demo).
 
 ## Slides
 
