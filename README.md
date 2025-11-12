@@ -4,6 +4,11 @@
 ### 2025
 ---
 
+### [Explore Generative AI with the Gemini API in Vertex AI](./Public-Speaking/2025.11.11__GDG-GenAI-Academy-Vertex-AI/) (November 2025)
+
+- **Event:** ANZ GEN AI Academy Workshop - GDG Cloud Sydney
+- **Topics:** Generative AI, Gemini API, Vertex AI, Python SDK, Function Calling
+
 ### [Moving to Cloud Run? Leave Your Kubernetes Luggage Behind](./Public-Speaking/2025.10.25__GDG-DevFest-Brisbane__Moving-to-Cloud-Run/) (October 2025)
 
 - **Event:** GDG DevFest Brisbane 2025
