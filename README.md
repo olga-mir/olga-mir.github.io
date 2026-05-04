@@ -1,16 +1,12 @@
 ## Speaking Engagements
 
 ---
-### 2026
----
 
 ### [Build Your First AI Agent with RAG](./Public-Speaking/2026.04.15__Monash-Uni__Build-AI-Agent-with-RAG/) (April 2026)
 
 - **Event:** Monash University, Melbourne
 - **Topics:** Multi-agent Systems, Retrieval-Augmented Generation, Local Model Deployment, Vertex AI, Cloud-Native AI
 
----
-### 2025
 ---
 
 ### [Explore Generative AI with the Gemini API in Vertex AI](./Public-Speaking/2025.11.11__GDG-GenAI-Academy-Vertex-AI/) (November 2025)
@@ -28,8 +24,6 @@
 - **Event:** GDG Melbourne DevFest 2025
 - **Topics:** GitOps, Platform Engineering, Kubernetes, Cluster Fleet Management
 
----
-### 2024
 ---
 
 ### [Kubernetes Operators Load Testing](./Public-Speaking/2024.10.15__KubeDay-AU-Keynote__k8s-Operators/) (October 2024)
@@ -52,8 +46,6 @@
 - **Event:** Kubernetes Meetup Melbourne
 - **Topics:** LLMs, Kubernetes
 
----
-### 2023
 ---
 
 ### [GKE and EKS IPv4 Exhaustion Solutions](./Public-Speaking/2023.11.13__Infracoders-meetup__GKE-EKS-IPv4-Exhaustion/) (November 2023)
