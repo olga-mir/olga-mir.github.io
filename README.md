@@ -2,6 +2,11 @@
 
 ---
 
+### [I Came for the Kubernetes. The AI Did the Kubernetes](./Public-Speaking/2026.05.06__KSUG-AU-Meetup__AI-Did-The-Kubernetes/) (May 2026)
+
+- **Event:** KSUG.AI Australia #60, Melbourne
+- **Topics:** Kubernetes, Platform Engineering, AI Agents, Crossplane, FluxCD, GitOps, Context Engineering
+
 ### [Build Your First AI Agent with RAG](./Public-Speaking/2026.04.15__Monash-Uni__Build-AI-Agent-with-RAG/) (April 2026)
 
 - **Event:** Monash University, Melbourne
