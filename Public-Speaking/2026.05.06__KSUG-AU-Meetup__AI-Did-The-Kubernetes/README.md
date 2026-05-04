@@ -6,6 +6,10 @@ But when AI came along, initially as Claude chat, then Claude Code, then Claude 
 
 While I am still deciding whether I love this or hate it, one thing is for sure: I learned a lot about AI in the process, and I want to share these learnings in this session: context engineering, token cost, agent harnesses, and much more.
 
+## Event Details
+
 **Event:** [KSUG.AI Australia #60 — Melbourne Meetup @AWS](https://www.meetup.com/ksug-au/events/313940226/)
+
 **Date:** 6 May 2026
-**Location:** Amazon MEL12, 555 Collins St, Melbourne VIC 3000
+
+**Location:** Melbourne
