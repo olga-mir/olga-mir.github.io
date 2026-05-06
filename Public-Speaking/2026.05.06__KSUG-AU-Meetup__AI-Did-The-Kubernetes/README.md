@@ -13,3 +13,7 @@ While I am still deciding whether I love this or hate it, one thing is for sure:
 **Date:** 6 May 2026
 
 **Location:** Melbourne
+
+## Slides
+
+- [PDF](./ksug-ai-final.pdf)
