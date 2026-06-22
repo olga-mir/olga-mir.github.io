@@ -2,6 +2,11 @@
 
 ---
 
+### [Olga and Her Agent Attended AI Engineer Conference. Lessons Learned](./Public-Speaking/2026.06.24__GDG-Melbourne__AI-Agent-Conference-Lessons/) (June 2026)
+
+- **Event:** GDG Melbourne June'26 Meetup
+- **Topics:** AI Agents, GCP Agent Platform, Agentic Systems, Context Engineering, LLM Cost Optimisation
+
 ### [I Came for the Kubernetes. The AI Did the Kubernetes](./Public-Speaking/2026.05.06__KSUG-AU-Meetup__AI-Did-The-Kubernetes/) (May 2026)
 
 - **Event:** KSUG.AI Australia #60, Melbourne
