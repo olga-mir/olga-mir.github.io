@@ -10,7 +10,7 @@ priority = 600
 
 [[rule]]
 toolName = "run_command"
-commandPrefix = "mv GDG-Agent-Platform-Stand-In-Agent-AI-Engineer-Conference.pdf"
+commandPrefix = "mv"
 decision = "allow"
 priority = 600
 
