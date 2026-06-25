@@ -20,4 +20,4 @@ The replay demo showcases real-time content filtering and implementation automat
 
 ## Slides
 
-Slides will be uploaded after the event.
+- [PDF](./GDG-Agent-Platform-Stand-In-Agent-AI-Engineer-Conference.pdf)

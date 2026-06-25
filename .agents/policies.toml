@@ -1,0 +1,32 @@
+# Antigravity Workspace Policies & Permissions
+# Auto-generated to store the permissions granted in this session
+
+# --- Allowed Commands ---
+[[rule]]
+toolName = "run_command"
+commandRegex = "^git (status|ls-files|add)(\\s|$)"
+decision = "allow"
+priority = 600
+
+[[rule]]
+toolName = "run_command"
+commandPrefix = "mv GDG-Agent-Platform-Stand-In-Agent-AI-Engineer-Conference.pdf"
+decision = "allow"
+priority = 600
+
+[[rule]]
+toolName = "run_command"
+commandPrefix = "find"
+decision = "allow"
+priority = 600
+
+# --- Workspace File Actions ---
+[[rules]]
+action = "read_file"
+target = "/Users/olga/repos/olga-mir.github.io"
+policy = "allow"
+
+[[rules]]
+action = "write_file"
+target = "/Users/olga/repos/olga-mir.github.io"
+policy = "allow"
