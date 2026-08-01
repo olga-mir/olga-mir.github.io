@@ -2,6 +2,13 @@
 
 ---
 
+### [What Managed Kubernetes Hid and Why It Matters Now](./Public-Speaking/2026.08.05__KCD-Melbourne__What-Managed-Kubernetes-Hid/) (August 2026)
+
+- **Event:** KCD Melbourne 2026
+- **Topics:** Kubernetes, k0s, Cilium, Hybrid Cloud, GPU Orchestration, Data Sovereignty, LLM Inference, CNCF
+
+---
+
 ### [Olga and Her Agent Attended AI Engineer Conference. Lessons Learned](./Public-Speaking/2026.06.24__GDG-Melbourne__AI-Agent-Conference-Lessons/) (June 2026)
 
 - **Event:** GDG Melbourne June'26 Meetup
