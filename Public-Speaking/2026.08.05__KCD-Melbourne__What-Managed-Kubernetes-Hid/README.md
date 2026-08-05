@@ -24,4 +24,4 @@ We'll bypass cloud-packaged hybrid solutions and walk through an open-source blu
 
 ## Slides
 
-_Coming soon_
+- [PDF](./What-Managed-Kubernetes-Hid__Olga-Mirensky.pdf)
