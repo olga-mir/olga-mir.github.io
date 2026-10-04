@@ -2,10 +2,16 @@
 
 ---
 
+## Upcoming
+
 ### [Structure Over Prompts: Building an SRE Agent on Gemini Enterprise Agent Platform](./Public-Speaking/2026.10.10__GDG-DevFest-Sydney__Structure-Over-Prompts/) (October 2026)
 
 - **Event:** DevFest Sydney 2026
 - **Topics:** AI Agents, ADK, Gemini Enterprise Agent Platform, SRE, Context Engineering, Agentic Systems
+
+---
+
+## Past
 
 ### [Structure Over Prompts: Building an SRE Agent on Gemini Enterprise Agent Platform](./Public-Speaking/2026.10.03__GDG-Melbourne-DevFest__Structure-Over-Prompts/) (October 2026)
 
