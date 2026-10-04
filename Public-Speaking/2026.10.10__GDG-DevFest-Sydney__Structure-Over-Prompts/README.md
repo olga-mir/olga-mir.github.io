@@ -4,22 +4,6 @@ We built an automated SRE agent on the Agent Development Kit (ADK) and Gemini En
 
 The fix wasn't a better prompt — it was treating the agent as a software program rather than a series of LLM calls. We encoded the investigation process into the agent's structure: explicit states, typed transitions, and guardrails defined in ADK, bringing determinism to a highly indeterministic system while cutting prompt volume. This talk walks through the production graph topology, the custom tool boundaries, context engineering under tight platform constraints (no persistent volumes — all source access via GitHub APIs), and the inline verifier that forces the agent to be uncertain and honest rather than confident and wrong.
 
-## Event Details
-
-This talk is being presented at two GDG DevFest events in October 2026:
-
-### Melbourne
-
-**Event:** [GDG Melbourne DevFest 2026](https://gdgmelbourne.com/devfest/)
-
-**Date:** 3 October 2026
-
-**Location:** William Angliss Institute, 555 La Trobe Street, Melbourne, VIC 3000
-
-**Session:** [Sessionize page](https://gdg-melbourne-devfest-2026.sessionize.com/session/1321201)
-
-### Sydney
-
 **Event:** [DevFest Sydney 2026](https://devfest.gdgsydney.com/)
 
 **Date:** 10 October 2026
@@ -28,4 +12,8 @@ This talk is being presented at two GDG DevFest events in October 2026:
 
 ## Slides
 
-_Coming soon_
+_Coming soon — the Sydney deck is a significant revision of the talk, not a repeat of the Melbourne version. Will be published after the session (10 Oct 2026)._
+
+## Related
+
+This talk was first presented at [GDG Melbourne DevFest 2026](../2026.10.03__GDG-Melbourne-DevFest__Structure-Over-Prompts/) (3 Oct 2026).
